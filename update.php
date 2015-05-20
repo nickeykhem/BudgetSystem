@@ -71,22 +71,7 @@
     <link   href="css/bootstrap.min.css" rel="stylesheet">
     <script src="js/bootstrap.min.js"></script>
 
-    <SCRIPT language="JavaScript">
 
-	var password;
-
-	var pass1="letmein";
-
-	password=prompt('Please enter your password to view this page!',' ');
-
-	if (password==pass1)
-	  alert('Password Correct! Click OK to enter!');
-	else
-	   {
-	    window.location="index.php";
-	    }
-
-	</SCRIPT>
 </head>
 
 <body>
